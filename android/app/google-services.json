@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181498225353",
+    "firebase_url": "https://rastreiomudanca.firebaseio.com",
+    "project_id": "rastreiomudanca",
+    "storage_bucket": "rastreiomudanca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181498225353:android:6a18106fce2dc797452318",
+        "android_client_info": {
+          "package_name": "com.example.RastreioMudanca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181498225353-tgfvl9oo4ldbbf2n3d5kmdgkdsiueipb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.RastreioMudanca",
+            "certificate_hash": "2db56da90c01de3757463245a465401f3233dc7c"
+          }
+        },
+        {
+          "client_id": "181498225353-rr4is862v3nb4okc4gvjl40ike2hluss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC48ocZgIO8YpO1RBqhnFnCho-gG840sz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181498225353-rr4is862v3nb4okc4gvjl40ike2hluss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
